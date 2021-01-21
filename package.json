@@ -1,0 +1,23 @@
+{
+  "name": "spreadsheet-to-array",
+  "version": "1.0.1",
+  "description": "A convenient library to convert google spreadSheet to array",
+  "keywords": [
+    "google",
+    "spreadsheet",
+    "toArray"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron674092290",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^67.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aaron674092290/spreadSheetToArray.git"
+  }
+}
